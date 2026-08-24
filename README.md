@@ -69,6 +69,6 @@ deconstruct/
 }
 ```
 
-# 5. License
+# 2. License
 
 MIT
