@@ -40,7 +40,7 @@ Three models, one rotating circle. Each of the four steps carries one model's co
 | --- | --- | --- | --- |
 | Clarify Kit | 1 | Observe | Clarify 5W1H/5W2H → Summarize SCQA |
 | Decompose Kit | 2 | Orient | Decompose Issue Tree → Standardize MECE → Dig to essence First Principles |
-| Acquire & Quality-Check Kit | 3 | Observe | Source Rumsfeld + search logic (direct + indirect PESTEL) → Upgrade SIFT → Evaluate CRAAP → by source type: people / things → domain tools auto-added |
+| Acquire & Quality-Check Kit | 3 | Observe | Source Rumsfeld + search logic (direct + indirect PESTEL) → Enrich SIFT → Evaluate CRAAP → by source type: people / things → domain tools auto-added |
 | Decision Kit | 4 | Decide | Classify SWOT → Evaluate matrix → Goal SMART |
 | Negation Kit | 5 | Quality gate (feedback loop) | Question thinking (Socratic → 5 Whys) → Question internal (Dialectics) → Question external (Red Team) → Question ending (Pre-mortem) |
 | Action Kit | 6 | Act | Prioritize Eisenhower Matrix |
@@ -121,7 +121,7 @@ deconstruct/
 | --- | --- | --- | --- |
 | 澄清包 | 第 1 步 | Observe | 问题澄清 5W1H/5W2H → 澄清总结 SCQA |
 | 拆解包 | 第 2 步 | Orient | 问题拆解 Issue Tree → 拆解规范 MECE → 拆到本质 First Principles |
-| 获取信息与质量检验包 | 第 3 步 | Observe | 信息来源 Rumsfeld + 来源检索（直接 + 间接 PESTEL）→ 信源提优 SIFT → 信息评价 CRAAP → 按信息源类型：人 / 物 → 领域工具自动补充 |
+| 获取信息与质量检验包 | 第 3 步 | Observe | 信息来源 Rumsfeld + 来源检索（直接 + 间接 PESTEL）→ 信息补厚 SIFT → 信息评价 CRAAP → 按信息源类型：人 / 物 → 领域工具自动补充 |
 | 决策包 | 第 4 步 | Decide | 要素归类 SWOT → 要素评价 矩阵 → 决策目标 SMART |
 | 否定包 | 第 5 步 | 质检闸门（反馈环） | 思维质疑（Socratic → 5 Whys）→ 内部质疑（Dialectics）→ 外部质疑（Red Team）→ 结局质疑（Pre-mortem） |
 | 行动包 | 第 6 步 | Act | 要事排序 Eisenhower Matrix（周期见基本循环） |
